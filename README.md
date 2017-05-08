@@ -3,6 +3,7 @@
 
 ## Features
 + Bandstructure Calculation
+![](./examples/bandstructure.jpeg)
 
 ## Status
 Working on it
