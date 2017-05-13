@@ -6,6 +6,10 @@
 
 ![](./examples/bandstructure.jpeg)
 
++ Transmission and Reflection of Multilayers
+
+![](./examples/TR.jpeg)
+
 ## Status
 Working on it
 
